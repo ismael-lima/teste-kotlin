@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="title_my_movies">My Movies</string>
+    <string name="title_search_movies">Search Movies</string>
+    <string name="movie_director">Director</string>
+    <string name="movie_actors">Actors/Actresses</string>
+    <string name="movie_plot">Plot</string>
+    <string name="get_movie_error_msg">Fail to get movie information</string>
+    <string name="search_movie_error_msg">This search has not found any results</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="save_error">Fail on saving</string>
+    <string name="delete_error">Fail on deleting</string>
+    <string name="save_success">Saved Successful</string>
+    <string name="delete_success">Deleted Successful</string>
+    <string name="no_internet_connection">Verify your internet connection</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="type_title">Type the title</string>
+</resources>

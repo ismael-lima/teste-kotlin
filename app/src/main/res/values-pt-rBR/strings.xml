@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="type_title">Digite o título</string>
+    <string name="title_search_movies">Pesquisar Filmes</string>
+    <string name="title_my_movies">Meus Filmes</string>
+    <string name="movie_director">Diretor</string>
+    <string name="movie_actors">Atores/Atrizes</string>
+    <string name="movie_plot">Enredo</string>
+    <string name="get_movie_error_msg">Falha ao pegar informações do filme</string>
+    <string name="delete">Apagar</string>
+    <string name="save">Salvar</string>
+    <string name="search_movie_error_msg">Essa busca não encontrou resultados</string>
+    <string name="save_error">Falha ao salvar</string>
+    <string name="delete_error">Falha ao apagar</string>
+    <string name="save_success">Salvo com sucesso</string>
+    <string name="delete_success">Apagado com sucesso</string>
+    <string name="no_internet_connection">Verifique a sua conexão com a internet</string>
+</resources>
